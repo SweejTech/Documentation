@@ -39,4 +39,5 @@ To customise the SweejTech Audio Inspector, open the Editor Preferences window a
 - The colour scheme for the Volume column
 - The update rate of the UI
 
+![Audio Inspector editor preferences window with all available columns ticked](https://github.com/SweejTech/Documentation/blob/main/AudioInspector/audio-inspector-editor-prefs.png)
 
