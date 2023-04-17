@@ -42,7 +42,7 @@ We only support one device at a time.
 
 ## Quick Setup
 
-Watch the overview video (coming soon) where we go through these steps
+Watch the [overview video](https://www.youtube.com/watch?v=NT0yI0ee_MY&ab_channel=SweejTech) where we go through these steps
 1. Enable the plugin in Edit… → Plugins
 2. Choose a MIDI device in Project Settings → SweejTech MetaSound MIDI
 3. Open a MetaSound
