@@ -49,7 +49,7 @@ Watch the overview video (coming soon) where we go through these steps
 4. Add interface SweejTech.MIDI.Simple
 5. Right click the graph and add event NoteOn from the newly added interface
 6. Start preview by pressing space on your keyboard, or the preview button in the toolbar
-7. NoteOn events can now be received from your selected MIDI device
+NoteOn events can now be received from your selected MIDI device
 
 ## Interfaces
 
